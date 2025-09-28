@@ -2,6 +2,7 @@ absl-py==2.3.1
 appnope==0.1.4
 asttokens==3.0.0
 astunparse==1.6.3
+catboost==1.2.8
 certifi==2025.8.3
 charset-normalizer==3.4.3
 comm==0.2.3
@@ -14,6 +15,7 @@ flatbuffers==25.2.10
 fonttools==4.60.0
 gast==0.6.0
 google-pasta==0.2.0
+graphviz==0.21
 grpcio==1.75.0
 h5py==3.14.0
 idna==3.10
@@ -35,6 +37,7 @@ matplotlib-inline==0.1.7
 mdurl==0.1.2
 ml_dtypes==0.5.3
 namex==0.1.0
+narwhals==2.5.0
 nest-asyncio==1.6.0
 numpy==2.3.3
 opt_einsum==3.4.0
@@ -45,6 +48,7 @@ parso==0.8.5
 pexpect==4.9.0
 pillow==11.3.0
 platformdirs==4.4.0
+plotly==6.3.0
 prompt_toolkit==3.0.52
 protobuf==6.32.1
 psutil==7.1.0
