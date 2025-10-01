@@ -24,7 +24,7 @@ Este proyecto implementa y compara **4 algoritmos de machine learning** para pre
 - **Tamaño**: 10,000 registros
 - **Variables**: 15 características (demográficas, salud, hábitos)
 - **Objetivo**: Predicción de calidad del sueño (4 clases: Excellent, Good, Fair, Poor)
-- **Preprocesamiento**: Estandarización, codificación de variables categóricas, transformación de potencia
+- **Preprocesamiento**: Estandarización, codificación de variables categóricas, transformación 
 
 ## Técnicas de Machine Learning Utilizadas
 
